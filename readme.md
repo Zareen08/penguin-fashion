@@ -23,3 +23,10 @@ live link: https://zareen08.github.io/penguin-fashion/
 
 ---
 
+
+## 📦 Dependencies
+
+This project uses CDN-based Tailwind CSS, so no local dependencies are required.
+
+```html
+<script src="https://cdn.tailwindcss.com"></script>
